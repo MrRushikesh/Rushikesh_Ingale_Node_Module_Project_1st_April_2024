@@ -19,7 +19,7 @@
 
 - Clone the repository:
 ```bash
-    git clone 
+    git clone https://github.com/MrRushikesh/Rushikesh_Ingale_Node_Module_Project_1st_April_2024.git
 ```
 - Navigate to the project directory:
 ```bash
